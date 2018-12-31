@@ -1,0 +1,20 @@
+{
+    "operations": [
+        {
+            "type": "pack",
+            "parameters": {
+                "trim": true,
+                "source": "cake_64/*.png",
+                "target": "cake_64.png"
+            }
+        },
+        {
+            "type": "pack",
+            "parameters": {
+                "trim": true,
+                "source": "cake_128/*.png",
+                "target": "cake_123.pngu"
+            }
+        }
+    ]
+}
