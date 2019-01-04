@@ -1,0 +1,1331 @@
+{
+  "MaxWidth": 64,
+  "MaxHeight": 64,
+  "Count": 55,
+  "Columns": 8,
+  "Rows": 7,
+  "PackedWidth": 512,
+  "PackedHeight": 448,
+  "Frames": [
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\10.png",
+      "SourceRectangle": {
+        "X": 15,
+        "Y": 15,
+        "Width": 34,
+        "Height": 34,
+        "Location": {
+          "X": 15,
+          "Y": 15,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 34,
+          "Height": 34,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 15,
+        "Right": 49,
+        "Bottom": 49,
+        "Left": 15
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\11.png",
+      "SourceRectangle": {
+        "X": 15,
+        "Y": 15,
+        "Width": 34,
+        "Height": 34,
+        "Location": {
+          "X": 15,
+          "Y": 15,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 34,
+          "Height": 34,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 15,
+        "Right": 49,
+        "Bottom": 49,
+        "Left": 15
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\12.png",
+      "SourceRectangle": {
+        "X": 15,
+        "Y": 15,
+        "Width": 34,
+        "Height": 34,
+        "Location": {
+          "X": 15,
+          "Y": 15,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 34,
+          "Height": 34,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 15,
+        "Right": 49,
+        "Bottom": 49,
+        "Left": 15
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\13.png",
+      "SourceRectangle": {
+        "X": 15,
+        "Y": 15,
+        "Width": 34,
+        "Height": 34,
+        "Location": {
+          "X": 15,
+          "Y": 15,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 34,
+          "Height": 34,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 15,
+        "Right": 49,
+        "Bottom": 49,
+        "Left": 15
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\14.png",
+      "SourceRectangle": {
+        "X": 15,
+        "Y": 15,
+        "Width": 34,
+        "Height": 34,
+        "Location": {
+          "X": 15,
+          "Y": 15,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 34,
+          "Height": 34,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 15,
+        "Right": 49,
+        "Bottom": 49,
+        "Left": 15
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\15.png",
+      "SourceRectangle": {
+        "X": 12,
+        "Y": 13,
+        "Width": 40,
+        "Height": 38,
+        "Location": {
+          "X": 12,
+          "Y": 13,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 40,
+          "Height": 38,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 13,
+        "Right": 52,
+        "Bottom": 51,
+        "Left": 12
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\16.png",
+      "SourceRectangle": {
+        "X": 12,
+        "Y": 13,
+        "Width": 40,
+        "Height": 38,
+        "Location": {
+          "X": 12,
+          "Y": 13,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 40,
+          "Height": 38,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 13,
+        "Right": 52,
+        "Bottom": 51,
+        "Left": 12
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\17.png",
+      "SourceRectangle": {
+        "X": 12,
+        "Y": 13,
+        "Width": 40,
+        "Height": 38,
+        "Location": {
+          "X": 12,
+          "Y": 13,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 40,
+          "Height": 38,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 13,
+        "Right": 52,
+        "Bottom": 51,
+        "Left": 12
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\18.png",
+      "SourceRectangle": {
+        "X": 12,
+        "Y": 13,
+        "Width": 40,
+        "Height": 38,
+        "Location": {
+          "X": 12,
+          "Y": 13,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 40,
+          "Height": 38,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 13,
+        "Right": 52,
+        "Bottom": 51,
+        "Left": 12
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\19.png",
+      "SourceRectangle": {
+        "X": 12,
+        "Y": 13,
+        "Width": 40,
+        "Height": 38,
+        "Location": {
+          "X": 12,
+          "Y": 13,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 40,
+          "Height": 38,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 13,
+        "Right": 52,
+        "Bottom": 51,
+        "Left": 12
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\2.png",
+      "SourceRectangle": {
+        "X": 17,
+        "Y": 13,
+        "Width": 30,
+        "Height": 37,
+        "Location": {
+          "X": 17,
+          "Y": 13,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 30,
+          "Height": 37,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 13,
+        "Right": 47,
+        "Bottom": 50,
+        "Left": 17
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\20.png",
+      "SourceRectangle": {
+        "X": 13,
+        "Y": 11,
+        "Width": 37,
+        "Height": 41,
+        "Location": {
+          "X": 13,
+          "Y": 11,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 37,
+          "Height": 41,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 11,
+        "Right": 50,
+        "Bottom": 52,
+        "Left": 13
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\21.png",
+      "SourceRectangle": {
+        "X": 13,
+        "Y": 11,
+        "Width": 37,
+        "Height": 41,
+        "Location": {
+          "X": 13,
+          "Y": 11,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 37,
+          "Height": 41,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 11,
+        "Right": 50,
+        "Bottom": 52,
+        "Left": 13
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\22.png",
+      "SourceRectangle": {
+        "X": 13,
+        "Y": 11,
+        "Width": 37,
+        "Height": 41,
+        "Location": {
+          "X": 13,
+          "Y": 11,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 37,
+          "Height": 41,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 11,
+        "Right": 50,
+        "Bottom": 52,
+        "Left": 13
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\23.png",
+      "SourceRectangle": {
+        "X": 13,
+        "Y": 11,
+        "Width": 37,
+        "Height": 41,
+        "Location": {
+          "X": 13,
+          "Y": 11,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 37,
+          "Height": 41,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 11,
+        "Right": 50,
+        "Bottom": 52,
+        "Left": 13
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\24.png",
+      "SourceRectangle": {
+        "X": 13,
+        "Y": 11,
+        "Width": 37,
+        "Height": 41,
+        "Location": {
+          "X": 13,
+          "Y": 11,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 37,
+          "Height": 41,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 11,
+        "Right": 50,
+        "Bottom": 52,
+        "Left": 13
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\25.png",
+      "SourceRectangle": {
+        "X": 15,
+        "Y": 10,
+        "Width": 34,
+        "Height": 43,
+        "Location": {
+          "X": 15,
+          "Y": 10,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 34,
+          "Height": 43,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 10,
+        "Right": 49,
+        "Bottom": 53,
+        "Left": 15
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\26.png",
+      "SourceRectangle": {
+        "X": 14,
+        "Y": 10,
+        "Width": 35,
+        "Height": 44,
+        "Location": {
+          "X": 14,
+          "Y": 10,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 35,
+          "Height": 44,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 10,
+        "Right": 49,
+        "Bottom": 54,
+        "Left": 14
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\27.png",
+      "SourceRectangle": {
+        "X": 14,
+        "Y": 10,
+        "Width": 35,
+        "Height": 44,
+        "Location": {
+          "X": 14,
+          "Y": 10,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 35,
+          "Height": 44,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 10,
+        "Right": 49,
+        "Bottom": 54,
+        "Left": 14
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\28.png",
+      "SourceRectangle": {
+        "X": 5,
+        "Y": 7,
+        "Width": 54,
+        "Height": 49,
+        "Location": {
+          "X": 5,
+          "Y": 7,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 54,
+          "Height": 49,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 7,
+        "Right": 59,
+        "Bottom": 56,
+        "Left": 5
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\29.png",
+      "SourceRectangle": {
+        "X": 15,
+        "Y": 10,
+        "Width": 34,
+        "Height": 43,
+        "Location": {
+          "X": 15,
+          "Y": 10,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 34,
+          "Height": 43,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 10,
+        "Right": 49,
+        "Bottom": 53,
+        "Left": 15
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\3.png",
+      "SourceRectangle": {
+        "X": 14,
+        "Y": 18,
+        "Width": 35,
+        "Height": 27,
+        "Location": {
+          "X": 14,
+          "Y": 18,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 35,
+          "Height": 27,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 18,
+        "Right": 49,
+        "Bottom": 45,
+        "Left": 14
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\30.png",
+      "SourceRectangle": {
+        "X": 16,
+        "Y": 16,
+        "Width": 31,
+        "Height": 31,
+        "Location": {
+          "X": 16,
+          "Y": 16,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 31,
+          "Height": 31,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 16,
+        "Right": 47,
+        "Bottom": 47,
+        "Left": 16
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\31.png",
+      "SourceRectangle": {
+        "X": 16,
+        "Y": 16,
+        "Width": 31,
+        "Height": 31,
+        "Location": {
+          "X": 16,
+          "Y": 16,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 31,
+          "Height": 31,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 16,
+        "Right": 47,
+        "Bottom": 47,
+        "Left": 16
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\32.png",
+      "SourceRectangle": {
+        "X": 16,
+        "Y": 16,
+        "Width": 31,
+        "Height": 31,
+        "Location": {
+          "X": 16,
+          "Y": 16,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 31,
+          "Height": 31,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 16,
+        "Right": 47,
+        "Bottom": 47,
+        "Left": 16
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\33.png",
+      "SourceRectangle": {
+        "X": 15,
+        "Y": 13,
+        "Width": 34,
+        "Height": 37,
+        "Location": {
+          "X": 15,
+          "Y": 13,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 34,
+          "Height": 37,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 13,
+        "Right": 49,
+        "Bottom": 50,
+        "Left": 15
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\34.png",
+      "SourceRectangle": {
+        "X": 16,
+        "Y": 16,
+        "Width": 31,
+        "Height": 31,
+        "Location": {
+          "X": 16,
+          "Y": 16,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 31,
+          "Height": 31,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 16,
+        "Right": 47,
+        "Bottom": 47,
+        "Left": 16
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\35.png",
+      "SourceRectangle": {
+        "X": 15,
+        "Y": 7,
+        "Width": 34,
+        "Height": 50,
+        "Location": {
+          "X": 15,
+          "Y": 7,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 34,
+          "Height": 50,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 7,
+        "Right": 49,
+        "Bottom": 57,
+        "Left": 15
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\36.png",
+      "SourceRectangle": {
+        "X": 14,
+        "Y": 10,
+        "Width": 35,
+        "Height": 44,
+        "Location": {
+          "X": 14,
+          "Y": 10,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 35,
+          "Height": 44,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 10,
+        "Right": 49,
+        "Bottom": 54,
+        "Left": 14
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\37.png",
+      "SourceRectangle": {
+        "X": 14,
+        "Y": 10,
+        "Width": 36,
+        "Height": 43,
+        "Location": {
+          "X": 14,
+          "Y": 10,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 36,
+          "Height": 43,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 10,
+        "Right": 50,
+        "Bottom": 53,
+        "Left": 14
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\38.png",
+      "SourceRectangle": {
+        "X": 14,
+        "Y": 11,
+        "Width": 36,
+        "Height": 42,
+        "Location": {
+          "X": 14,
+          "Y": 11,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 36,
+          "Height": 42,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 11,
+        "Right": 50,
+        "Bottom": 53,
+        "Left": 14
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\39.png",
+      "SourceRectangle": {
+        "X": 15,
+        "Y": 7,
+        "Width": 34,
+        "Height": 50,
+        "Location": {
+          "X": 15,
+          "Y": 7,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 34,
+          "Height": 50,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 7,
+        "Right": 49,
+        "Bottom": 57,
+        "Left": 15
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\4.png",
+      "SourceRectangle": {
+        "X": 14,
+        "Y": 13,
+        "Width": 35,
+        "Height": 37,
+        "Location": {
+          "X": 14,
+          "Y": 13,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 35,
+          "Height": 37,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 13,
+        "Right": 49,
+        "Bottom": 50,
+        "Left": 14
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\40.png",
+      "SourceRectangle": {
+        "X": 14,
+        "Y": 10,
+        "Width": 35,
+        "Height": 44,
+        "Location": {
+          "X": 14,
+          "Y": 10,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 35,
+          "Height": 44,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 10,
+        "Right": 49,
+        "Bottom": 54,
+        "Left": 14
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\41.png",
+      "SourceRectangle": {
+        "X": 14,
+        "Y": 10,
+        "Width": 36,
+        "Height": 43,
+        "Location": {
+          "X": 14,
+          "Y": 10,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 36,
+          "Height": 43,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 10,
+        "Right": 50,
+        "Bottom": 53,
+        "Left": 14
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\42.png",
+      "SourceRectangle": {
+        "X": 14,
+        "Y": 11,
+        "Width": 36,
+        "Height": 42,
+        "Location": {
+          "X": 14,
+          "Y": 11,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 36,
+          "Height": 42,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 11,
+        "Right": 50,
+        "Bottom": 53,
+        "Left": 14
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\43.png",
+      "SourceRectangle": {
+        "X": 15,
+        "Y": 7,
+        "Width": 34,
+        "Height": 49,
+        "Location": {
+          "X": 15,
+          "Y": 7,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 34,
+          "Height": 49,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 7,
+        "Right": 49,
+        "Bottom": 56,
+        "Left": 15
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\44.png",
+      "SourceRectangle": {
+        "X": 14,
+        "Y": 9,
+        "Width": 36,
+        "Height": 45,
+        "Location": {
+          "X": 14,
+          "Y": 9,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 36,
+          "Height": 45,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 9,
+        "Right": 50,
+        "Bottom": 54,
+        "Left": 14
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\45.png",
+      "SourceRectangle": {
+        "X": 14,
+        "Y": 10,
+        "Width": 36,
+        "Height": 43,
+        "Location": {
+          "X": 14,
+          "Y": 10,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 36,
+          "Height": 43,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 10,
+        "Right": 50,
+        "Bottom": 53,
+        "Left": 14
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\46.png",
+      "SourceRectangle": {
+        "X": 14,
+        "Y": 11,
+        "Width": 36,
+        "Height": 42,
+        "Location": {
+          "X": 14,
+          "Y": 11,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 36,
+          "Height": 42,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 11,
+        "Right": 50,
+        "Bottom": 53,
+        "Left": 14
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\47.png",
+      "SourceRectangle": {
+        "X": 21,
+        "Y": 2,
+        "Width": 22,
+        "Height": 59,
+        "Location": {
+          "X": 21,
+          "Y": 2,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 22,
+          "Height": 59,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 2,
+        "Right": 43,
+        "Bottom": 61,
+        "Left": 21
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\48.png",
+      "SourceRectangle": {
+        "X": 21,
+        "Y": 2,
+        "Width": 22,
+        "Height": 59,
+        "Location": {
+          "X": 21,
+          "Y": 2,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 22,
+          "Height": 59,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 2,
+        "Right": 43,
+        "Bottom": 61,
+        "Left": 21
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\49.png",
+      "SourceRectangle": {
+        "X": 15,
+        "Y": 5,
+        "Width": 34,
+        "Height": 53,
+        "Location": {
+          "X": 15,
+          "Y": 5,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 34,
+          "Height": 53,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 5,
+        "Right": 49,
+        "Bottom": 58,
+        "Left": 15
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\5.png",
+      "SourceRectangle": {
+        "X": 13,
+        "Y": 15,
+        "Width": 37,
+        "Height": 34,
+        "Location": {
+          "X": 13,
+          "Y": 15,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 37,
+          "Height": 34,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 15,
+        "Right": 50,
+        "Bottom": 49,
+        "Left": 13
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\50.png",
+      "SourceRectangle": {
+        "X": 19,
+        "Y": 5,
+        "Width": 26,
+        "Height": 54,
+        "Location": {
+          "X": 19,
+          "Y": 5,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 26,
+          "Height": 54,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 5,
+        "Right": 45,
+        "Bottom": 59,
+        "Left": 19
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\51.png",
+      "SourceRectangle": {
+        "X": 14,
+        "Y": 3,
+        "Width": 36,
+        "Height": 57,
+        "Location": {
+          "X": 14,
+          "Y": 3,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 36,
+          "Height": 57,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 3,
+        "Right": 50,
+        "Bottom": 60,
+        "Left": 14
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\52.png",
+      "SourceRectangle": {
+        "X": 15,
+        "Y": 13,
+        "Width": 34,
+        "Height": 37,
+        "Location": {
+          "X": 15,
+          "Y": 13,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 34,
+          "Height": 37,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 13,
+        "Right": 49,
+        "Bottom": 50,
+        "Left": 15
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\53.png",
+      "SourceRectangle": {
+        "X": 17,
+        "Y": 13,
+        "Width": 30,
+        "Height": 37,
+        "Location": {
+          "X": 17,
+          "Y": 13,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 30,
+          "Height": 37,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 13,
+        "Right": 47,
+        "Bottom": 50,
+        "Left": 17
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\54.png",
+      "SourceRectangle": {
+        "X": 18,
+        "Y": 13,
+        "Width": 27,
+        "Height": 38,
+        "Location": {
+          "X": 18,
+          "Y": 13,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 27,
+          "Height": 38,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 13,
+        "Right": 45,
+        "Bottom": 51,
+        "Left": 18
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\55.png",
+      "SourceRectangle": {
+        "X": 18,
+        "Y": 5,
+        "Width": 28,
+        "Height": 53,
+        "Location": {
+          "X": 18,
+          "Y": 5,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 28,
+          "Height": 53,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 5,
+        "Right": 46,
+        "Bottom": 58,
+        "Left": 18
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\56.png",
+      "SourceRectangle": {
+        "X": 17,
+        "Y": 13,
+        "Width": 29,
+        "Height": 37,
+        "Location": {
+          "X": 17,
+          "Y": 13,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 29,
+          "Height": 37,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 13,
+        "Right": 46,
+        "Bottom": 50,
+        "Left": 17
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\6.png",
+      "SourceRectangle": {
+        "X": 13,
+        "Y": 15,
+        "Width": 37,
+        "Height": 34,
+        "Location": {
+          "X": 13,
+          "Y": 15,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 37,
+          "Height": 34,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 15,
+        "Right": 50,
+        "Bottom": 49,
+        "Left": 13
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\7.png",
+      "SourceRectangle": {
+        "X": 13,
+        "Y": 15,
+        "Width": 37,
+        "Height": 34,
+        "Location": {
+          "X": 13,
+          "Y": 15,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 37,
+          "Height": 34,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 15,
+        "Right": 50,
+        "Bottom": 49,
+        "Left": 13
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\8.png",
+      "SourceRectangle": {
+        "X": 13,
+        "Y": 15,
+        "Width": 37,
+        "Height": 34,
+        "Location": {
+          "X": 13,
+          "Y": 15,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 37,
+          "Height": 34,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 15,
+        "Right": 50,
+        "Bottom": 49,
+        "Left": 13
+      }
+    },
+    {
+      "Name": "D:\\Github\\GameContent\\2d-pickups-pack\\cake_64\\9.png",
+      "SourceRectangle": {
+        "X": 13,
+        "Y": 15,
+        "Width": 37,
+        "Height": 34,
+        "Location": {
+          "X": 13,
+          "Y": 15,
+          "IsEmpty": false
+        },
+        "Size": {
+          "Width": 37,
+          "Height": 34,
+          "IsEmpty": false
+        },
+        "IsEmpty": false,
+        "Top": 15,
+        "Right": 50,
+        "Bottom": 49,
+        "Left": 13
+      }
+    }
+  ]
+}
